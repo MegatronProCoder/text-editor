@@ -18,9 +18,4 @@ VT100 (and similar terminals) escape sequences. The project is in alpha
 stage and was written in just a few hours taking code from my other two
 projects, load81 and linenoise.
 
-People are encouraged to use it as a starting point to write other editors
-or command line interfaces that are more advanced than the usual REPL
-style CLI.
 
-Kilo was written by Salvatore Sanfilippo aka antirez and is released
-under the BSD 2 clause license.
